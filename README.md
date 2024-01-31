@@ -2,7 +2,7 @@
 # Gl1tchyAI
 
 Gl1tchyAI is an AI machine learning Chatbot  
-~Created by `@Gl1tchyUwU`
+~Created by `@tomartanish`
 
 
 
@@ -30,7 +30,7 @@ Python libraries: `Streamlit`, `Streamlit-chat`, `torch`, `transformers`, `watch
 
 ## Contributing
 
-Any kind of contributions to `Gl1tchyUwU/Gl1tchyAI` are welcome.
+Any kind of contributions to `tomartanish/Gl1tchyAI` are welcome.
 
 1. Fork the Project
 2. Commit your Changes
